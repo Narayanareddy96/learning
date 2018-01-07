@@ -9,7 +9,6 @@ use Illuminate\Support\Facades\Schema;
 
 public function boot()
 {
-  // this one need to be added
   Schema::defaultStringLength(191);
 }
 </p>
